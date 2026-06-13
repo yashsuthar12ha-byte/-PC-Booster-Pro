@@ -10,6 +10,10 @@
 *.tmp
 *.log
 
+# Zone Identifier ADS
+*.exe:Zone.Identifier
+*.exe.*
+
 # VS files
 .vs/
 *.suo
