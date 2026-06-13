@@ -1,0 +1,18 @@
+# Build artifacts
+*.exe
+!PC_Booster_Pro_v2.0.exe
+
+# C# compiled
+*.pdb
+*.dll
+
+# Temp files
+*.tmp
+*.log
+
+# VS files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
